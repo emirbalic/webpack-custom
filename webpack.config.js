@@ -22,7 +22,7 @@ const config = {
             }
         ]
     }, 
-    plugin: [
+    plugins: [
         new ExtractTextPlugin('style.css')
     ]
         
